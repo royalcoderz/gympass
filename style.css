@@ -1,0 +1,230 @@
+body{
+    text-transform: capitalize;
+}
+.container1{
+    color: black;
+    display: flex;
+    height: 4vh;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+nav{
+    margin-left: 500px;
+    
+}
+.container2{
+    background-image: url(https://t3.ftcdn.net/jpg/02/43/70/52/360_F_243705299_bLGBaHc79ILXIh47eQ2AAS6fuajxIRkj.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.l1
+{
+    margin-top: 0px;
+    font-size: 25px;
+}
+a{
+    padding-left: 85px;
+}
+.p15{
+    color: white;
+    font-size: 50px;
+}
+.secret{
+    color: white;
+    font-size: 50px;
+}
+.div1{
+    margin-left: 500px;
+    padding-top: 100px;
+}
+.container3{
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.p1{
+    height: 60vh;
+    padding-left: 250px;
+    padding-right: 250px;
+    line-height: 50px;
+    text-wrap: balance;
+    word-spacing: 20px;
+    font-size: 50px;
+
+}
+.container4{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;  
+    background-color: rgb(10, 10, 54);
+    color: whitesmoke;
+}
+.d3{
+    display: flex;
+}
+.d4{
+    display: flex;
+}
+h2{
+    font-size: 50px;
+}
+.p3,.p4,.p5,.p6,.p7,.p8{
+    text-wrap: balance;
+    line-height: 30px;
+}
+h5{
+    font-weight: 2rem;
+}
+.container5{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+}
+.p9{
+    font-size: 60px;
+    line-height: 60px;
+    text-wrap: wrap;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.container6{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+    background-color: rgb(10, 10, 54);
+    color: whitesmoke;
+}
+.div5{
+    margin-top: 50px;
+}
+.div6{
+    margin-top: 50px;
+}
+.div7{
+    margin-top: 50px;
+}
+.p10,.p11,.p12{
+    font-size: 35px;
+    line-height: 45px;
+}
+.div8{
+    font-size: 50px;
+}
+.container7{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+}
+.div9{
+    display: flex;
+    padding-top: 70px;
+}
+img{
+    width: 480px;
+    height: 400px;
+}
+.container8{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+    background-color: rgb(10, 10, 54);
+    color: whitesmoke;
+}
+.div10{
+    display: flex;
+}
+.p13{
+    font-size: 35px;
+}
+.d10,.d11,.d12{
+    width: 570px;
+}
+.div13{
+    margin-bottom: 0px;
+}
+li{
+    list-style: none;
+    font-size: 35px;
+}
+.sd11,.sd12{
+    font-size: 35px;
+}
+.link{
+    padding-left: 10px;
+    font-size: 50px;
+}
+.conl{
+    padding-left: 10px;
+    font-size: 50px;
+}
+.n{
+    font-size: 50px;
+}
+.cona{
+    color: white;
+    background-color: violet;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 95px;
+    padding-left: 50px;
+    font-size: 50px;
+
+}
+.conc{
+border: 2px solid red;
+margin-left: 10px;
+margin-right: 10px;
+height: 80vh;
+}
+form{
+    padding-left: 357px;
+    font-style: italic;
+    margin-left: 250px;
+    margin-top: 125px;
+}
+.conc1{
+    width: 110px;
+    height: 63px;
+    display: flex;
+    margin: 5px;
+}
+.conc2{
+    width: 110px;
+    height: 63px;
+    display: flex;
+    margin: 5px;
+    padding: 3px;
+}
+.conc3{
+    height: 100px;
+    width: 600px;
+
+}
+a:hover{
+    color: red;
+    transition-property: color;
+    transition-delay: 1.5sec;
+}
+a{
+    width: 4px;
+}
+.contact{
+    cursor:none;
+}
+.contact:hover{
+    background-color: blue;
+    transition-property: background-color;
+    transition-delay: 1sec;
+    color: white;
+    transition-property: color;
+    transition-delay: 1sec;
+}
